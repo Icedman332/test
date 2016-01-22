@@ -1,4 +1,4 @@
-mondayclass
+fridayclass
 
 I am using this to learn Git and Github.
 
