@@ -1,7 +1,4 @@
-My schedule
-Monday class
-Wednesday class
-friday class
+Github rocks
 
 I am using this to learn Git and Github.
 
