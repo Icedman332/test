@@ -1,3 +1,4 @@
+My schedule
 Monday class
 Wednesday class
 friday class
